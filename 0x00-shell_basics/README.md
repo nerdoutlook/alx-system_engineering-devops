@@ -12,3 +12,4 @@
 ### 12. The twelfth script list all files in the current directory, parent directory and the /boot directory
 ### 13. The thirteenth script prints the file type of the specified file.
 ### 14. The fourteenth script creates a symbolic link to a file(ls) in the root bin(/bin) directory.
+### 15. The fifteenth script moves all files beginning with an uppercase to the /tmp/u directory.

@@ -8,3 +8,4 @@
 ### 8. The eight script moves a file 'betty' into the folder my_first_directory
 ### 9. The ninth script removes the file 'betty'
 ### 10. The tenth script removes the 'my_first_directory'
+### 11. The eleventh script changes the working directory to the previous one.

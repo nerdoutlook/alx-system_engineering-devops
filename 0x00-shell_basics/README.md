@@ -5,5 +5,6 @@
 ### 5. The fifth script displays the content of the current folder, (including hidden files starting with .)
 ### 6. The sixth script displays the content of the current folder in long formant, with user and group IDs displayed numerically, (including hidden files starting with .)
 ### 7. The seventh script script creates a directory in the /tmp/ directory.
-### 8. The eight script renames a file in the current directory
-### 9. The ninth script removes the file 'betty' renamed to 'my_first_directory'
+### 8. The eight script moves a file 'betty' into the folder my_first_directory
+### 9. The ninth script removes the file 'betty'
+### 10. The tenth script removes the 'my_first_directory'

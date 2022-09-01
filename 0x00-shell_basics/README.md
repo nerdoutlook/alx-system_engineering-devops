@@ -9,4 +9,5 @@
 ### 9. The ninth script removes the file 'betty'
 ### 10. The tenth script removes the 'my_first_directory'
 ### 11. The eleventh script changes the working directory to the previous one.
-### 12. The twelveth script list all files in the current directory, parent directory and the /boot directory
+### 12. The twelfth script list all files in the current directory, parent directory and the /boot directory
+### 13. The thirteenth script prints the file type of the specified file.

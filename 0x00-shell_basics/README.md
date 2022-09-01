@@ -3,3 +3,4 @@
 ### 3. The third script changes the working directory to user's home directory
 ### 4. The fourth script displays the content of the current directory in long format
 ### 5. The fifth file displays the content of the current folder, (including hidden files starting with .)
+### 6. The sixth file displays the content of the current folder in long formant, with user and group IDs displayed numerically, (including hidden files starting with .)

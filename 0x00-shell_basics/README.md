@@ -13,3 +13,4 @@
 ### 13. The thirteenth script prints the file type of the specified file.
 ### 14. The fourteenth script creates a symbolic link to a file(ls) in the root bin(/bin) directory.
 ### 15. The fifteenth script moves all files beginning with an uppercase to the /tmp/u directory.
+### 16. The sixteenth script removes all backup files created by emacs, i.e files that begin with '~'

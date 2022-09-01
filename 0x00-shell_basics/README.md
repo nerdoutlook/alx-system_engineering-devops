@@ -11,3 +11,4 @@
 ### 11. The eleventh script changes the working directory to the previous one.
 ### 12. The twelfth script list all files in the current directory, parent directory and the /boot directory
 ### 13. The thirteenth script prints the file type of the specified file.
+### 14. The fourteenth script creates a symbolic link to a file(ls) in the root bin(/bin) directory.

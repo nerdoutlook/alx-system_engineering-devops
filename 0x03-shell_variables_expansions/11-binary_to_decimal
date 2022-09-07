@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'obase=10; '$BINARY'' | bc
+echo 10o'$BINARY'p | dc
